@@ -26,9 +26,9 @@ author:
   avatar           : "Profile.jpg"
   name             : "Hyunjun Hwang (황현준)"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate, Transportation Engineering"
+  bio              : "Ph.D. Candidate"
   location         : "Austin, Texas"
-  school           : "The University of Texas at Austin"
+  employer         : "The University of Texas at Austin"
   uri              : # URL
   email            : "hjhwang@utexas.edu" 
 
