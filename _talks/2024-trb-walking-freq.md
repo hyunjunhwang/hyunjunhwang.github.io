@@ -5,7 +5,7 @@ type: "Conference presentation"
 category: conference
 permalink: /talks/2024-trb-walking-freq
 venue: "Transportation Research Board 103rd Annual Meeting"
-date: 2024-01-01
+date: 2024-01-09
 location: "Washington, D.C., USA"
 ---
 
