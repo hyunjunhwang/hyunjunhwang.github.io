@@ -6,7 +6,7 @@ category: conference
 permalink: /talks/2018-kits-transit
 venue: "Korean Institute of ITS Conference"
 date: 2018-04-19
-location: "Republic of Korea"
+location: "Jeju,Republic of Korea"
 ---
 
 <b>Hwang, H.</b>, K.U. Jang, S.W. Yoon, and S.Y. Kho (2018). "Developing Analysis Index for Coverage of Metropolitan Public Transit Hub Using Smart Card Data." The 2018 Korean Institute of ITS Conference (in Korean). [Oral]
