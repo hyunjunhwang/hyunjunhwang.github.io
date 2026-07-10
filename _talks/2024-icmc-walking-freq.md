@@ -5,7 +5,7 @@ type: "Conference presentation"
 category: conference
 permalink: /talks/2024-icmc-walking-freq
 venue: "International Choice Modelling Conference (ICMC)"
-date: 2024-02-01
+date: 2024-04-02
 location: "Puerto Varas, Chile"
 ---
 
