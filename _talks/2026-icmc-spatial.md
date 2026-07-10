@@ -5,7 +5,7 @@ type: "Conference presentation"
 category: conference
 permalink: /talks/2026-icmc-spatial
 venue: "International Choice Modelling Conference (ICMC)"
-date: 2026-01-01
+date: 2026-07-22
 location: "Gold Coast, Australia"
 ---
 
