@@ -5,7 +5,7 @@ type: "Conference presentation"
 category: conference
 permalink: /talks/2024-iatbr-walking-freq
 venue: "International Association for Travel Behaviour Research (IATBR) Conference"
-date: 2024-07-01
+date: 2024-07-21
 location: "Vienna, Austria"
 ---
 
