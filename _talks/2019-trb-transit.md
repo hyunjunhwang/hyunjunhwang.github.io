@@ -1,7 +1,8 @@
 ---
 title: "Development of a Coverage Area Index for a Transit Center Using Smart Card"
 collection: talks
-type: "Poster"
+type: "Conference presentation"
+category: conference
 permalink: /talks/2019-trb-transit
 venue: "Transportation Research Board 98th Annual Meeting"
 date: 2019-01-01

@@ -1,7 +1,8 @@
 ---
 title: "Multivariate Analysis of Walking Habits After COVID-19"
 collection: talks
-type: "Poster"
+type: "Conference presentation"
+category: conference
 permalink: /talks/2025-trb-walking
 venue: "Transportation Research Board 104th Annual Meeting"
 date: 2025-01-01

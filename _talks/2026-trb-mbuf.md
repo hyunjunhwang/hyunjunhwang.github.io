@@ -1,7 +1,8 @@
 ---
 title: "A Tale of Two Perspectives: The Mileage-based User Fee Conundrum"
 collection: talks
-type: "Poster"
+type: "Conference presentation"
+category: conference
 permalink: /talks/2026-trb-mbuf
 venue: "Transportation Research Board 105th Annual Meeting"
 date: 2026-01-11

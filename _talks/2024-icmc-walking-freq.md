@@ -1,7 +1,8 @@
 ---
 title: "An Analysis of Walking Frequency Before and After the Pandemic"
 collection: talks
-type: "Oral presentation"
+type: "Conference presentation"
+category: conference
 permalink: /talks/2024-icmc-walking-freq
 venue: "International Choice Modelling Conference (ICMC)"
 date: 2024-02-01

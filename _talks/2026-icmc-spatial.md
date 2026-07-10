@@ -1,7 +1,8 @@
 ---
 title: "A Spatial Ordered-Response Model with Localized Spillovers and Asymmetric Errors"
 collection: talks
-type: "Oral presentation"
+type: "Conference presentation"
+category: conference
 permalink: /talks/2026-icmc-spatial
 venue: "International Choice Modelling Conference (ICMC)"
 date: 2026-01-01

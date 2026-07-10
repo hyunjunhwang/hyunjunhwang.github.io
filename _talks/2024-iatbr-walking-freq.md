@@ -1,7 +1,8 @@
 ---
 title: "An Analysis of Walking Frequency Before and After the Pandemic"
 collection: talks
-type: "Oral presentation"
+type: "Conference presentation"
+category: conference
 permalink: /talks/2024-iatbr-walking-freq
 venue: "International Association for Travel Behaviour Research (IATBR) Conference"
 date: 2024-07-01

@@ -1,7 +1,8 @@
 ---
 title: "An Analysis of Walking Frequency Before and After the Pandemic"
 collection: talks
-type: "Poster"
+type: "Conference presentation"
+category: conference
 permalink: /talks/2024-trb-walking-freq
 venue: "Transportation Research Board 103rd Annual Meeting"
 date: 2024-01-01

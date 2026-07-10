@@ -1,7 +1,8 @@
 ---
 title: "Understanding Public Perceptions of Congestion Pricing — A U.S. Perspective"
 collection: talks
-type: "Poster"
+type: "Conference presentation"
+category: conference
 permalink: /talks/2026-trb-congestion
 venue: "Transportation Research Board 105th Annual Meeting"
 date: 2026-01-12
