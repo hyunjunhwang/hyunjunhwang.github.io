@@ -27,6 +27,7 @@ I study walking and other active modes as inherently multidimensional behaviors 
 - [Multivariate Analysis of Frequency, Duration and Companionship in Walking Behaviors Among Adults Over 50](/publication/2025-walking-companionship) (*Journal of Transport & Health*, 2025)
 - [Walking Patterns in Older Adults: Modeling the Interplay of Frequency, Place, and Purpose](/publication/2025-walking-patterns) (*Journal of Transport & Health*, 2025)
 - [An Analysis of Walking Frequency Before and After the Pandemic](/publication/2023-walking-frequency-pandemic) (Technical paper)
+
 **Transportation Policy Perception**
  
 I examine how the public forms attitudes toward transportation policy — including congestion pricing and road-usage charges — and what shapes support for or opposition to these measures. This work applies discrete choice and perception models to understand the behavioral basis of policy acceptance.
@@ -34,6 +35,7 @@ I examine how the public forms attitudes toward transportation policy — includ
 - [A Tale of Two Perspectives: The Mileage-based User Fee Conundrum](/publication/2026-mbuf) (*Transportation Research Part A*, in press)
 - [Understanding Public Perceptions of Congestion Pricing — A U.S. Perspective](/publication/2026-congestion-pricing) (*Transport Policy*, under review)
 - [Trapped by Transport: Exploring the Everyday Impact of Mobility Challenges and Transportation Insecurities in the United States](/publication/2026-transport-insecurity) (*Travel Behaviour and Society*, under review)
+
 **Spatial Modeling Advances**
  
 I develop spatial econometric methods tailored to travel behavior — featuring localized spillover effects whose spatial reach is estimated from the data, a separate treatment of observed and unobserved spatial dependence, and flexible error distributions that accommodate behavioral asymmetry.
