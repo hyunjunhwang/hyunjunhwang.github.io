@@ -5,7 +5,7 @@ type: "Conference presentation"
 category: conference
 permalink: /talks/2018-kits-transit
 venue: "Korean Institute of ITS Conference"
-date: 2018-01-01
+date: 2018-04-19
 location: "Republic of Korea"
 ---
 
