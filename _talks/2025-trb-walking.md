@@ -5,7 +5,7 @@ type: "Conference presentation"
 category: conference
 permalink: /talks/2025-trb-walking
 venue: "Transportation Research Board 104th Annual Meeting"
-date: 2025-01-01
+date: 2025-01-06
 location: "Washington, D.C., USA"
 ---
 
