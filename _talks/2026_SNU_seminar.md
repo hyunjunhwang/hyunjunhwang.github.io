@@ -3,7 +3,7 @@ title: "Interpretable Behavioral Models: Advances in Econometric Approaches to A
 collection: talks
 type: "Invited seminar"
 category: "invited"
-permalink: /talks/2026-08-06-snu-seminar/
+permalink: /talks/2026-08-06-snu-seminar
 venue: "Seoul National University, Department of Civil, Urban and Environmental Engineering"
 date: 2026-08-06
 location: "Seoul, South Korea"
