@@ -3,7 +3,7 @@ title: "Interpretable Behavioral Models: Advances in Econometric Approaches to A
 collection: talks
 type: "Invited Seminar"
 category: "invited"
-permalink: /talks/2026-08-11-kaist-seminar/
+permalink: /talks/2026-08-11-kaist-seminar
 venue: "KAIST, Department of Civil and Environmental Engineering"
 date: 2026-08-11
 location: "Daejeon, South Korea"
